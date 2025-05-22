@@ -1,7 +1,3 @@
-
-markdown
-Copy
-Edit
 <h1 align="center">👋 Hi, I'm Taha (a.k.a. @GeniuSenoghteh)</h1>
 <p align="center">💻 Programmer | 🎮 Gamer | 😴 Sleep Enjoyer</p>
 
@@ -9,13 +5,15 @@ Edit
 
 ### 👀 About Me
 
+- **MBTI:** INTP  
+- **IQ:** >136  
 - Passionate about **IT**, computer games, books, and coding  
 - Currently learning **Python**, **Batch**, **VBS**, and how *not* to rage-quit after 10 tries  
 - Open to any fun, weird, or creative collaboration  
 - Can I work under pressure?  
   > Actually, I *only* work under pressure! 😎  
 
-📫 Reach me: tahanoursalehi@gmail.com  
+📫 Reach me: **tahanoursalehi@gmail.com**  
 
 ---
 
