@@ -6,12 +6,12 @@
 ### 👀 About Me
 
 - **MBTI:** INTP  
-- **IQ:** >136  
+- **IQ:** >130
 - Passionate about **IT**, computer games, books, and coding  
 - Currently learning **Python**, **Batch**, **VBS**, and how *not* to rage-quit after 10 tries  
 - Open to any fun, weird, or creative collaboration  
 - Can I work under pressure?  
-  > Actually, I *only* work under pressure! 😎  
+  > Actually, I *only* work under pressure! 😁
 
 📫 Reach me: **tahanoursalehi@gmail.com**  
 
